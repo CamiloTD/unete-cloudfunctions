@@ -1,2 +1,2 @@
 # unete-cloudfunctions
-Unete wrapper for syntactic cloud function executions
+Unete wrapper for syntactic google cloud function executions
